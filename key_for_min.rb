@@ -16,7 +16,7 @@ end
 name_hash.collect do |key, value|
   if min_num == value
     return key
-end    
+end
 end
 end
 end
